@@ -2,9 +2,9 @@
 
 
 
-- 🌱 Hoje estou estudando Front-end
-- 💻 Aluno de Analise e Desenvolvimento De Sistemas da ULBRA TORRES
-- 💪 Sempre a procura de novos desafios
+- 🌱  Hoje estou estudando Front-end
+- 💻  Aluno de Analise e Desenvolvimento De Sistemas da ULBRA TORRES
+- 💪  Sempre a procura de novos desafios
 
 
 <div>
